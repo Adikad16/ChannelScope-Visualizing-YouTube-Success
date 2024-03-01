@@ -14,9 +14,9 @@ Contributions Welcome: Open for contributions! Enhance existing visualizations o
 
 **Usage:**
 
-Access Kaggle datasets in the [Data] directory.
+Access Kaggle datasets in the Data directory.
 
-Open visualization files in the [Visualizations] directory for insights.
+Open visualization files in the Power BI directory for insights.
 
 **Contribution Guidelines:**
 
